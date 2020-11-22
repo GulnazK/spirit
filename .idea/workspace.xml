@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9130b667-8558-400f-a6c0-58804c482836" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JS Solved tasks/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS Solved tasks/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wedproj/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wedproj/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wedproj/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wedproj/images/Rectangle 2 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wedproj/images/Rectangle 2 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wedproj/images/Rectangle 2 (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wedproj/images/Rectangle 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wedproj/images/bgg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wedproj/images/gal1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wedproj/images/gal2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wedproj/images/gal3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wedproj/images/gal4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wedproj/images/gal5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wedproj/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wedproj/images/logo_big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wedproj/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wedproj/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wedproj/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bemexample/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bemexample/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dom proj/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dom proj/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dom proj/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dom/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dom/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dom/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-intro/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-intro/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redactor js/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redactor js/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redactor js/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redactor js/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redactor js/css/fontello.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redactor js/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redactor js/fonts/fontello.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redactor js/fonts/fontello.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redactor js/fonts/fontello.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redactor js/fonts/fontello.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redactor js/fonts/fontello.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redactor js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redactor js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task-tz/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task-tz/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-verstka/css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-verstka/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-verstka/images/Vector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-verstka/images/first-pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-verstka/images/header-bkg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-verstka/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-verstka/images/pic2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-verstka/images/pic3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-verstka/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-verstka/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text redactor js/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text redactor js/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text redactor js/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text redactor js/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text redactor js/css/fontello.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text redactor js/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text redactor js/fonts/fontello.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text redactor js/fonts/fontello.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text redactor js/fonts/fontello.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text redactor js/fonts/fontello.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text redactor js/fonts/fontello.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text redactor js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text redactor js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1irBXmRRkAQPi0ePqCx34X9tXLQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9130b667-8558-400f-a6c0-58804c482836" name="Default Changelist" comment="" />
+      <created>1602655871916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602655871916</updated>
+      <workItem from="1602655873269" duration="15733000" />
+      <workItem from="1602753489612" duration="332000" />
+      <workItem from="1602828434825" duration="12891000" />
+      <workItem from="1603093896918" duration="7591000" />
+      <workItem from="1603133385070" duration="5437000" />
+      <workItem from="1603192212316" duration="1625000" />
+      <workItem from="1603388296068" duration="8834000" />
+      <workItem from="1603475551237" duration="2599000" />
+      <workItem from="1603539807507" duration="2313000" />
+      <workItem from="1603736076752" duration="192000" />
+      <workItem from="1603747019893" duration="1228000" />
+      <workItem from="1603751909129" duration="638000" />
+      <workItem from="1603788344185" duration="974000" />
+      <workItem from="1605071460080" duration="722000" />
+      <workItem from="1605205537330" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602669145699">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="441" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1602669145699" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603399855669">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1603399855669" />
+  </component>
+</project>
